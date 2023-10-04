@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+
+}
+div{
+    text-align: center;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+    color: white;
+}
+p{
+    color: white;
+}
+.Dogs{
+    
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: 'Fuggles', cursive;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+.love-dog{
+    border: 5px solid white;
+    width: 100%;
+}
